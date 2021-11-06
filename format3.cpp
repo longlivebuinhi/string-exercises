@@ -8,7 +8,7 @@ abccccba -> blank
 
 using namespace std;
 
-string chuanhoa(const string &s)
+string chuanhoa(const string &s) //s truyen toi copy cua value, &s truyen toi chinh value do
 {
 	string res;
 	string _s = s;
