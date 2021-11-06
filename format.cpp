@@ -1,3 +1,8 @@
+/** Chuan hoa chuoi ki tu theo cac quy tac sau:
+- Viet hoa chu cai dau moi tu
+- Xoa bot dau cach thua
+*/
+
 #include<iostream>
 #include<string>
 
